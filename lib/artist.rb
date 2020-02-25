@@ -6,3 +6,7 @@ class Artist
   end
 
 end
+
+
+artist = Artist.new
+artist.name = "Beyonce" 
